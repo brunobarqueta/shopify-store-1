@@ -18,40 +18,38 @@ The main goal of this redesign was to modernize the user experience, improve UI 
 ### 🏠 Homepage
 
 <img width="1512" alt="Screenshot 2025-07-04 at 14 56 56" src="https://github.com/user-attachments/assets/3a3266fb-edcc-43e6-8c13-3a5d677d718a" />
-
+<br>
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/238c3668-2982-4a62-ae3d-8f1bcf3908f6" />
-
-<img width="1222" alt="image" src="https://github.com/user-attachments/assets/f44fed1b-0cc1-4bba-bda9-90f676b30015" />
-
+<br>
 <img width="1220" alt="image" src="https://github.com/user-attachments/assets/746aa220-89d9-4f02-8535-18065e90b80f" />
-
+<br>
 <img width="1220" alt="image" src="https://github.com/user-attachments/assets/6b1dc73c-d325-4626-a432-9e1c7aadd04b" />
-
+<br>
 <img width="1218" alt="image" src="https://github.com/user-attachments/assets/b3d70844-031c-4204-9356-9f571edea649" />
-
+<br>
 <img width="1221" alt="image" src="https://github.com/user-attachments/assets/e6c9a9a9-76bb-4c54-a2c5-f26137a049d7" />
-
+<br>
 <img width="1220" alt="image" src="https://github.com/user-attachments/assets/b48bdbda-f702-475c-9288-bbd85bc7cd4d" />
-
+<br>
 <img width="1220" alt="image" src="https://github.com/user-attachments/assets/a22c1dba-0098-464e-a776-21d216a1db06" />
-
+<br>
 <img width="1219" alt="image" src="https://github.com/user-attachments/assets/49288e62-6e9c-4fb3-8115-158b72dc4527" />
-
+<br>
 <img width="1220" alt="image" src="https://github.com/user-attachments/assets/a9283857-fbf3-4ceb-a650-ac6d4a8a37b7" />
-
+<br>
 ---
 
 ### 🛍️ Product Collection Page  
 <img width="1219" alt="image" src="https://github.com/user-attachments/assets/1dd07040-0910-4510-99a0-343e75f99ad6" />
-
+<br>
 <img width="1219" alt="image" src="https://github.com/user-attachments/assets/eb2ec691-bdcd-4fb0-a5a0-80dfb8d8fdf6" />
-
+<br>
 
 ---
 
 ### 📄 Product Detail Page (PDP)  
 <img width="1220" alt="image" src="https://github.com/user-attachments/assets/7de12e84-49c4-4d50-abb9-a74c930c4d4f" />
-
+<br>
 
 ---
 
